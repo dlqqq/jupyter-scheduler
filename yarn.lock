@@ -1846,7 +1846,7 @@
     "@lumino/widgets" "^1.37.2"
     resize-observer-polyfill "^1.5.1"
 
-"@jupyterlab/rendermime-interfaces@3.0.0 - 3.6.7":
+"@jupyterlab/rendermime-interfaces@3.0.0 - 3.6.7", "@jupyterlab/rendermime-interfaces@^3.6.7":
   version "3.6.7"
   resolved "https://registry.yarnpkg.com/@jupyterlab/rendermime-interfaces/-/rendermime-interfaces-3.6.7.tgz#49ea94fff2b0e42f3f3c2509678cfdbb635f1c0c"
   integrity sha512-TYEqONiNYUbHO7MgURoPETvnoEqO+vkDXZULxpYv2YXUcNbAS2/8Lkku4hZzAy6sVjkM4pOEwPDGt+J1Aa5rAg==
@@ -1855,7 +1855,7 @@
     "@lumino/coreutils" "^1.11.0"
     "@lumino/widgets" "^1.37.2"
 
-"@jupyterlab/rendermime-interfaces@^3.6.7":
+"@jupyterlab/rendermime-interfaces@^3":
   version "3.9.1"
   resolved "https://registry.yarnpkg.com/@jupyterlab/rendermime-interfaces/-/rendermime-interfaces-3.9.1.tgz#f0c8e78cc46f52d84acd0ec8c2889a7f5e320272"
   integrity sha512-3lqc3P+COib6H8iNN0tyM/YqQZP84q4hixIiQSFGXX4fmXHR012HCpr9C028dJ0+diTk3NlVA1vhjbfNAbhOTw==
